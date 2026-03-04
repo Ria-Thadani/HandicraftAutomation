@@ -1,0 +1,10 @@
+# Maven build folder
+target/
+
+# IDE folders
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
