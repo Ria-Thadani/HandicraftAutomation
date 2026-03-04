@@ -6,7 +6,7 @@ import org.testng.annotations.Test;
 
 public class LoginTest {
 
-   // @Test
+    @Test
     public void sellerLoginTest() throws InterruptedException {
 
         WebDriver driver = new ChromeDriver();
